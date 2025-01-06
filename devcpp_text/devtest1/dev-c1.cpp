@@ -1,6 +1,6 @@
 [Project]
-FileName=devtest.dev
-Name=devtest
+FileName=dev-c1.cpp
+Name=dev-c1
 Type=1
 Ver=2
 ObjFiles=
@@ -29,7 +29,7 @@ IncludeVersionInfo=0
 SupportXPThemes=0
 CompilerSet=1
 CompilerSettings=0000000000000000001000000
-UnitCount=2
+UnitCount=1
 
 [VersionInfo]
 Major=1
@@ -51,17 +51,7 @@ AutoIncBuildNr=0
 SyncProduct=1
 
 [Unit1]
-FileName=main.cpp
-CompileCpp=1
-Folder=
-Compile=1
-Link=1
-Priority=1000
-OverrideBuildCmd=0
-BuildCmd=
-
-[Unit2]
-FileName=add.cpp
+FileName=..\..\main.cpp
 CompileCpp=1
 Folder=
 Compile=1
