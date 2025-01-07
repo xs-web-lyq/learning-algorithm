@@ -24,7 +24,14 @@ using namespace std;
 
 
 int main(){
+	int sum = 0;
+	int n = 100000;
+	while(n--){
+		if(isHappy){
+			sum += n;
+		}
+	}
 	bool flag = isHappy(2);
-	cout << flag;
+	cout << sum;
 	return 0;
 }
